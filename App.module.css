@@ -1,8 +1,25 @@
 .calculator{
     /* background-color: aquamarine; */
     border: 2px solid rgb(84, 84, 84);
-    width: 500px;
-    height: 90vh;
+    width: 400px;
+    height: 85vh;
     margin: auto;
+    margin-top: 50px;
     border-radius: 15px;
+}
+.display{
+    margin: 30px;
+    width: 80%;
+    height: 60px;
+    /* font-size: 25px; */
+}
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button{
+    width: 55px;
+    height: 55px;
+    margin: 5px;
 }
