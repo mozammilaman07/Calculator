@@ -1,0 +1,8 @@
+.calculator{
+    /* background-color: aquamarine; */
+    border: 2px solid rgb(84, 84, 84);
+    width: 500px;
+    height: 90vh;
+    margin: auto;
+    border-radius: 15px;
+}
